@@ -1,8 +1,10 @@
 # README
 
+# User stories
+
 # Database (DB)
 ## ERD (Entity Relationship Diagram)
-[erd database](/docs/images/download.png)
+![erd database](/docs/images/erd.png)
 
 
 # DB Tables
@@ -23,6 +25,9 @@ I made 3 tables for my app, User, Tweet and Profile. User stores the user inform
 ## Tweet
 - message
 - user_id (belongs_to)
+
+# Figma
+
 
 # pages
 ## homepage
